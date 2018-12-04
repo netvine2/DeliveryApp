@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="etemail">Email</string>
+    <string name="etpassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="new_user">Register</string>
+    <string name="tvLogin">Sign in</string>
+</resources>
